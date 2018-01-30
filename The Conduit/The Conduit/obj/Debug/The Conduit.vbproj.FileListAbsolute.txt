@@ -1,0 +1,36 @@
+D:\School\Visual Basic\The Conduit\The Conduit\obj\Debug\The Conduit.vbprojResolveAssemblyReference.cache
+D:\School\Visual Basic\The Conduit\The Conduit\obj\Debug\The_Conduit.Home.resources
+D:\School\Visual Basic\The Conduit\The Conduit\obj\Debug\The_Conduit.LOGIN.resources
+D:\School\Visual Basic\The Conduit\The Conduit\obj\Debug\The_Conduit.Resources.resources
+D:\School\Visual Basic\The Conduit\The Conduit\obj\Debug\The_Conduit.ProduceAd.resources
+D:\School\Visual Basic\The Conduit\The Conduit\obj\Debug\The_Conduit.register.resources
+D:\School\Visual Basic\The Conduit\The Conduit\obj\Debug\The Conduit.vbproj.GenerateResource.Cache
+D:\School\Visual Basic\The Conduit\The Conduit\obj\Debug\The_Conduit.SplashScreen.resources
+D:\School\Visual Basic\The Conduit\The Conduit\obj\Debug\The_Conduit.ServerDetails.resources
+D:\School\Visual Basic\The Conduit\The Conduit\obj\Debug\The_Conduit.HomeLoggedIn.resources
+D:\School\Visual Basic\The Conduit\The Conduit\bin\Debug\Conduit.exe.config
+D:\School\Visual Basic\The Conduit\The Conduit\bin\Debug\Conduit.exe
+D:\School\Visual Basic\The Conduit\The Conduit\bin\Debug\Conduit.pdb
+D:\School\Visual Basic\The Conduit\The Conduit\bin\Debug\Conduit.xml
+D:\School\Visual Basic\The Conduit\The Conduit\obj\Debug\The Conduit.vbproj.Conduit.exe.config
+D:\School\Visual Basic\The Conduit\The Conduit\obj\Debug\Conduit.exe
+D:\School\Visual Basic\The Conduit\The Conduit\obj\Debug\Conduit.xml
+D:\School\Visual Basic\The Conduit\The Conduit\obj\Debug\Conduit.pdb
+C:\Users\c3ntyn3l\Documents\Visual Basic\The Conduit\The Conduit\bin\Debug\Conduit.exe.config
+C:\Users\c3ntyn3l\Documents\Visual Basic\The Conduit\The Conduit\obj\Debug\Conduit.exe
+C:\Users\c3ntyn3l\Documents\Visual Basic\The Conduit\The Conduit\obj\Debug\Conduit.xml
+C:\Users\c3ntyn3l\Documents\Visual Basic\The Conduit\The Conduit\obj\Debug\Conduit.pdb
+C:\Users\c3ntyn3l\Documents\Visual Basic\The Conduit\The Conduit\bin\Debug\Conduit.exe
+C:\Users\c3ntyn3l\Documents\Visual Basic\The Conduit\The Conduit\bin\Debug\Conduit.pdb
+C:\Users\c3ntyn3l\Documents\Visual Basic\The Conduit\The Conduit\bin\Debug\Conduit.xml
+C:\Users\c3ntyn3l\Documents\Visual Basic\The Conduit\The Conduit\obj\Debug\The Conduit.vbprojResolveAssemblyReference.cache
+C:\Users\c3ntyn3l\Documents\Visual Basic\The Conduit\The Conduit\obj\Debug\The Conduit.vbproj.Conduit.exe.config
+C:\Users\c3ntyn3l\Documents\Visual Basic\The Conduit\The Conduit\obj\Debug\The_Conduit.Home.resources
+C:\Users\c3ntyn3l\Documents\Visual Basic\The Conduit\The Conduit\obj\Debug\The_Conduit.HomeLoggedIn.resources
+C:\Users\c3ntyn3l\Documents\Visual Basic\The Conduit\The Conduit\obj\Debug\The_Conduit.LOGIN.resources
+C:\Users\c3ntyn3l\Documents\Visual Basic\The Conduit\The Conduit\obj\Debug\The_Conduit.Resources.resources
+C:\Users\c3ntyn3l\Documents\Visual Basic\The Conduit\The Conduit\obj\Debug\The_Conduit.ProduceAd.resources
+C:\Users\c3ntyn3l\Documents\Visual Basic\The Conduit\The Conduit\obj\Debug\The_Conduit.ServerDetails.resources
+C:\Users\c3ntyn3l\Documents\Visual Basic\The Conduit\The Conduit\obj\Debug\The_Conduit.register.resources
+C:\Users\c3ntyn3l\Documents\Visual Basic\The Conduit\The Conduit\obj\Debug\The_Conduit.SplashScreen.resources
+C:\Users\c3ntyn3l\Documents\Visual Basic\The Conduit\The Conduit\obj\Debug\The Conduit.vbproj.GenerateResource.Cache
